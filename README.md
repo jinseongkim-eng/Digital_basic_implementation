@@ -1,4 +1,29 @@
-# Digital_basic_implementation
-Synthesis, LEC, Contraints, APR, Pre/Point Simulation
+#  Digital_basic_implementation
 
-## Hello World
+## 구성은 다음과 같아요
+1. **RTL Design**
+* VerilogHDL을 이용하여 
+Combinational/Sepuantial Logic을
+설계합니다
+
+2. **Functional Verification**
+* Xcelium Simulator를 사용하여 RTL
+로직을 검증합니다
+
+3. **Synthesis**
+* Genus을 사용하여 RTL코드를 Gate
+Level Netlist로 합성합니다
+
+4. **Equlvalence Checking**
+* Conformal LEC을 사용하여 Locic의
+동기성을 검증합니다
+5. **Post Synthesis Verification**
+* Xcelium을 이용하여 Gate의 Delay가
+반영된 Simulation을 수행합니다
+6. **Auto Place and Route(PNR)**
+* Gate Level Netlist를 실제의 회로
+패턴으로 구현합니다
+
+
+
+## 도구 모음 및 개발 환경
