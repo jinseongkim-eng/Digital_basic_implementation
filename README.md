@@ -1,5 +1,5 @@
 #  Digital_basic_implementation
-Synthesis, LEC, Constraints, APR, Pre/Simulation
+Synthesis, LEC, Constraints, APR, Pre/Post Simulation
 
 ## 구성은 다음과 같아요
 1. **RTL Design**
